@@ -71,7 +71,7 @@ This project is licensed under the MIT License.
 
 ## Author
 
-- **Your Name** - [yourusername](https://github.com/yourusername)
+- **Parth Dambhare** - [parth-6-5-4](https://github.com/parth-6-5-4)
 
 ---
 
